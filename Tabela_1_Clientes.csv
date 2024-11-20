@@ -1,0 +1,101 @@
+Cliente_ID,Nome,Idade,Gênero,Renda Anual (Kz),Score de Crédito,Tipo de Cliente
+C001,Martim da Andrade,56,F,4060920,719,Individual
+C002,Gabriel Monteiro,46,F,7360006,721,Corporativo
+C003,Guilherme Morais,32,M,2984413,403,Individual
+C004,Erika Monteiro,60,M,3407360,553,Corporativo
+C005,Raquel Tavares,25,M,6395544,526,Individual
+C006,Paulo Gomes-Mendes,38,M,6197469,411,Individual
+C007,Ana-Isabel Gomes,56,F,2735000,809,Individual
+C008,Isabel-Bianca Morais,36,M,7408531,772,Individual
+C009,Eva Simões,40,M,4822252,398,Individual
+C010,Alexandre Pires,28,M,6322184,452,Corporativo
+C011,Sandro Lopes,28,M,902690,637,Individual
+C012,Gaspar Neto,41,M,3048421,462,Individual
+C013,Vasco Alves,53,F,2454109,460,Individual
+C014,Helena Sousa,57,M,4922880,697,Individual
+C015,Artur Marques,41,F,7705547,576,Individual
+C016,Artur Monteiro,20,M,8823735,803,Individual
+C017,Paulo Pinheiro-Monteiro,39,F,6957294,691,Individual
+C018,Sofia Martins,19,M,1884250,434,Individual
+C019,Artur Amaral-Pinto,41,M,561087,494,Individual
+C020,Juliana Matias,61,F,6909907,700,Individual
+C021,Salvador Azevedo,47,F,1996176,332,Individual
+C022,Ana Leite,55,F,539353,759,Corporativo
+C023,Frederico Fonseca,19,M,6984531,769,Individual
+C024,Alexandra Pinto,38,F,3860011,674,Individual
+C025,Helena Nascimento,50,M,8154909,321,Individual
+C026,Benedita-Victória Lopes,29,M,4759622,337,Individual
+C027,Benedita Domingues-Barbosa,39,F,5459617,529,Corporativo
+C028,César Jesus,61,F,6225570,664,Individual
+C029,Caetana Henriques,42,M,916880,737,Individual
+C030,Daniel Tavares,44,M,7572695,582,Individual
+C031,Eduarda-Letícia Nascimento,59,F,7933296,326,Individual
+C032,Frederico Pacheco,45,F,5465050,525,Individual
+C033,Lúcia da Neves,33,F,1313168,576,Individual
+C034,Bryan Rocha,32,M,725281,583,Individual
+C035,Larissa Moreira,64,M,4282875,780,Individual
+C036,Kyara Andrade,61,M,3495765,752,Individual
+C037,Erica Correia-Oliveira,20,M,8234102,815,Individual
+C038,Emma Morais,54,M,6095108,846,Individual
+C039,Leonor Fernandes,24,M,6174719,491,Individual
+C040,Salvador Loureiro,38,F,9158144,348,Individual
+C041,Fernando da Campos,26,M,7109280,811,Corporativo
+C042,Rafaela Coelho,56,M,6000306,316,Individual
+C043,Alícia Maia-Antunes,35,M,4872093,471,Individual
+C044,Petra Vieira,21,F,2061729,519,Individual
+C045,Valentina Matos-Branco,42,M,5531595,457,Corporativo
+C046,Matias Domingues,31,M,5978047,776,Individual
+C047,Adriana Paiva,26,F,9570277,345,Individual
+C048,Eduarda Melo,43,M,1619043,672,Individual
+C049,Isabel Santos,19,M,7603230,817,Individual
+C050,Lia Matias,37,M,3058231,398,Corporativo
+C051,Clara Ramos,45,M,7159908,336,Corporativo
+C052,Madalena Nogueira,64,M,3580389,579,Individual
+C053,David Marques,24,F,2161909,648,Individual
+C054,Andreia Lopes,61,F,3156138,796,Corporativo
+C055,Ivo Barbosa,25,F,610078,601,Individual
+C056,Manuel Lourenço,64,M,2415631,480,Individual
+C057,Alícia Carvalho,52,M,6814127,398,Individual
+C058,Isabel do Araújo,31,M,2508187,415,Individual
+C059,Kyara Moura,34,F,2159066,490,Corporativo
+C060,Daniela Marques,53,M,2648815,552,Corporativo
+C061,Kelly Campos,57,M,7855740,460,Corporativo
+C062,Jorge Faria,21,F,5006259,555,Individual
+C063,Mateus Barbosa,19,M,7973915,622,Corporativo
+C064,Isabela Freitas,23,F,8158426,427,Individual
+C065,Vítor Nunes,59,F,6904003,317,Individual
+C066,Matias Marques,21,F,4635314,622,Individual
+C067,Gabriela Mota,46,M,1410681,587,Corporativo
+C068,Sérgio Assunção-Nogueira,35,M,2107618,454,Corporativo
+C069,Isabel de Nogueira,43,M,4396830,789,Individual
+C070,Raquel Antunes-Jesus,61,M,4836787,685,Corporativo
+C071,Enzo Ribeiro,51,M,3255423,403,Individual
+C072,Manuel Lima,27,M,571295,692,Individual
+C073,Yasmin da Borges,53,M,9632582,545,Individual
+C074,Benedita Ribeiro,31,F,8113287,475,Individual
+C075,Hugo Jesus,48,M,3945376,338,Individual
+C076,Nair Anjos,32,F,5751035,776,Individual
+C077,Lia Gaspar,25,M,4112600,837,Individual
+C078,Anita Carvalho,31,M,1325816,707,Individual
+C079,Juliana de Gonçalves,40,M,9263313,824,Individual
+C080,Jorge Paiva,57,F,2526793,805,Individual
+C081,Bernardo Pereira,38,F,1054594,335,Individual
+C082,Pilar Amorim,33,F,9036326,319,Individual
+C083,Kévim Morais,62,F,4004473,620,Individual
+C084,Ema Leite,35,M,7799695,811,Individual
+C085,Maria-Mélanie Moreira,64,F,2704664,699,Individual
+C086,Duarte Azevedo,41,M,4841747,770,Individual
+C087,Yara-Margarida Henriques,43,M,1186976,442,Corporativo
+C088,Lucas Barbosa,42,F,2972189,391,Individual
+C089,Sérgio Ramos,62,F,9006404,653,Individual
+C090,Guilherme Pires,58,F,1741082,350,Corporativo
+C091,Maria Simões,46,F,5684502,489,Individual
+C092,Fábio Miranda,32,F,7061000,424,Individual
+C093,Anita Costa-Ferreira,62,F,7171458,449,Individual
+C094,Núria-Bianca Assunção,18,F,5392306,613,Individual
+C095,Gabriela Vieira,42,F,4174515,641,Individual
+C096,Amélia Sá,24,M,2079159,604,Individual
+C097,Ângelo Melo,26,F,9795925,353,Individual
+C098,Pilar do Nogueira,41,F,5015488,743,Individual
+C099,Petra-Larissa Amorim,18,M,6541495,563,Corporativo
+C100,Luciana Silva,61,F,9556842,352,Individual
