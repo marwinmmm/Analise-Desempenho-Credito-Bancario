@@ -3,6 +3,7 @@ Projeto de análise de desempenho de crédito bancário utilizando Power BI como
 Este repositório contém o projeto de análise de desempenho de crédito bancário utilizando Power BI.
 
 ## Estrutura do Repositório
+- **apresentação/**: contém a demostração e a parte de compartilhamento do projeto.
 - **datasets/**: Contém os dados utilizados no projeto.
 - **imagens/**: Capturas de tela do painel e modelos do Power BI.
 - **relatorios/**: Relatório final em PDF e apresentação em PowerPoint.
